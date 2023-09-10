@@ -1,0 +1,10 @@
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\bin\Debug\ED2 08-09-23.exe.config
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\bin\Debug\ED2 08-09-23.exe
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\bin\Debug\ED2 08-09-23.pdb
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2 08-09-23.csproj.AssemblyReference.cache
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2_08_09_23.Form1.resources
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2_08_09_23.Properties.Resources.resources
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2 08-09-23.csproj.GenerateResource.cache
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2 08-09-23.csproj.CoreCompileInputs.cache
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2 08-09-23.exe
+C:\Users\kethe\source\repos\ED2 08-09-23\ED2 08-09-23\obj\Debug\ED2 08-09-23.pdb
